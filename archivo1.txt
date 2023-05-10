@@ -1,0 +1,1 @@
+Este archivo se llama archivo1.txt y es la primera vez que se agrega a git.
