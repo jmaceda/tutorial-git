@@ -1,1 +1,4 @@
 Este archivo se llama archivo1.txt y es la primera vez que se agrega a git.
+
+Se agregan tres líneas para probar el commit (09-Jun-2024)
+Nueva prueba.
